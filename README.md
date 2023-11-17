@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management (Nessus)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Using Nessus Tenable to Scan Vulnerabilities](https://github.com/mzhinin/VulnerabilityManagement/tree/main)
 
 
 <h2>📺 Certifications</h2>
