@@ -4,6 +4,9 @@
 
 - <b>Vulnerability Management (Nessus)</b>
   - [Using Nessus Tenable to Scan Vulnerabilities](https://github.com/mzhinin/VulnerabilityManagement/tree/main)
+ 
+- <b>Azure Sentinel (Live Cyber Attacks)</b>
+  - [Lab's Azure Sentinel maps RDP attackers via custom script](https://github.com/mzhinin/AzureSentinelLab)
 
 
 <h2>📺 Certifications</h2>
